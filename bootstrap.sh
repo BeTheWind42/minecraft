@@ -1,5 +1,6 @@
 
-sudo apt-get install default-jdk
+sudo apt-get install default-jre
+Y
 sudo apt-get update
 mkdir minecraft
 cd minecraft
