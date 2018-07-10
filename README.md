@@ -3,9 +3,11 @@ Fast minecraft server launch
 
 Use:
 
-'sudo apt-get install -y curl git build-essential libsqlite3-dev libssl-dev libbz2-dev libreadline-dev default-jre'
-
 'sudo apt-get update'
+
+'sudo apt-get upgrade'
+
+'sudo apt-get install -y curl git build-essential libsqlite3-dev libssl-dev libbz2-dev libreadline-dev default-jre'
 
 And after:
 
