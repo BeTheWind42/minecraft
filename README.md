@@ -15,4 +15,4 @@ And after:
 
 And for launch do:
 
-./start.sh
+bash start.sh
