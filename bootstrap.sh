@@ -5,5 +5,4 @@ wget -O start.sh https://raw.githubusercontent.com/BeTheWind42/minecraft/master/
 wget -O server.properties https://raw.githubusercontent.com/BeTheWind42/minecraft/master/server.properties
 wget -O eula.txt https://raw.githubusercontent.com/BeTheWind42/minecraft/master/eula.txt
 java -jar minecraftforge-installer.jar --installServer
-mkdir mods
 cd mods
