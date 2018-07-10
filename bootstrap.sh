@@ -1,7 +1,4 @@
 
-sudo apt-get install default-jre
-Y
-sudo apt-get update
 mkdir minecraft
 cd minecraft
 wget -O minecraftforge-installer.jar https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.4.2732/forge-1.12.2-14.23.4.2732-installer.jar
