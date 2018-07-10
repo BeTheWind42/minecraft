@@ -7,4 +7,4 @@ wget -O eula.txt https://raw.githubusercontent.com/BeTheWind42/minecraft/master/
 java -jar minecraftforge-installer.jar --installServer
 mkdir mods
 cd mods
-wget -O Dungeon_Mobs.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/Dungeon%20Mobs%20v3.0.5.zip
+wget -O Dungeon_Mobs.zip https://github.com/BeTheWind42/minecraft/raw/master/mods/Dungeon%20Mobs%20v3.0.5.zip
