@@ -7,4 +7,6 @@ wget -O minecraftforge-installer.jar https://files.minecraftforge.net/maven/net/
 java -jar minecraftforge-installer.jar --installServer
 wget -O start.sh https://raw.githubusercontent.com/BeTheWind42/minecraft/master/start.sh
 wget -O server.properties https://raw.githubusercontent.com/BeTheWind42/minecraft/master/server.properties
-mkdir
+wget -O eula.txt https://raw.githubusercontent.com/BeTheWind42/minecraft/master/eula.txt
+mkdir mods
+cd mods
