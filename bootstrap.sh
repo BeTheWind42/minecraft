@@ -7,5 +7,4 @@ wget -O eula.txt https://raw.githubusercontent.com/BeTheWind42/minecraft/master/
 wget -O mods.sh https://raw.githubusercontent.com/BeTheWind42/minecraft/master/mods.sh
 java -jar minecraftforge-installer.jar --installServer
 mkdir mods
-cd mods
 bash mods.sh
