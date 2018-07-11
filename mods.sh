@@ -1,3 +1,5 @@
+rm -r mods
+mkdir mods
 cd mods
 
 #Apis
