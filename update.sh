@@ -1,3 +1,3 @@
 rm bash.sh
-wget -O mods.sh https://github.com/BeTheWind42/minecraft/edit/master/mods.sh
+wget -O mods.sh https://raw.githubusercontent.com/BeTheWind42/minecraft/master/mods.sh
 bash mods.sh
