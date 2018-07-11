@@ -1,5 +1,3 @@
-#!/bin/bash
-
 rm -r mods
 mkdir mods
 cd mods
