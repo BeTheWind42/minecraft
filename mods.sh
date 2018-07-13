@@ -2,6 +2,9 @@ rm -r mods
 mkdir mods
 cd mods
 
+#Sponge
+wget -O spongeforge.jar https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2705-7.1.0-BETA-3292/spongeforge-1.12.2-2705-7.1.0-BETA-3292.jar
+
 #Apis
 wget -O Mantle.jar https://files.forgecdn.net/files/2550/550/Mantle-1.12-1.3.2.24.jar
 wget -O IvToolkit.jar https://files.forgecdn.net/files/2443/253/IvToolkit-1.3.3-1.12.jar
