@@ -32,5 +32,5 @@ rm -r plugins
 mkdir plugins
 cd plugins
 
-wget -O GriefPrevention.jar https://dl7.volafile.org/download/BQuhK2Sce3nKI/griefprevention-1.12.2-4.3.0.639.jar
-wget -O Nucleus.jar https://dl7.volafile.org/download/BQugjE-iXFmr-/Nucleus-1.4.1-S7.0-MC1.12.2-plugin.jar
+wget -O GriefPrevention.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/Nucleus-1.4.1-S7.0-MC1.12.2-plugin.jar
+wget -O Nucleus.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/griefprevention-1.12.2-4.3.0.639.jar
