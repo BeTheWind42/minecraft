@@ -3,7 +3,7 @@ mkdir mods
 cd mods
 
 #Sponge
-wget -O spongeforge.jar https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2705-7.1.0-BETA-3292/spongeforge-1.12.2-2705-7.1.0-BETA-3292.jar
+#wget -O spongeforge.jar https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2705-7.1.0-BETA-3292/spongeforge-1.12.2-2705-7.1.0-BETA-3292.jar
 
 #Apis
 wget -O Mantle.jar https://files.forgecdn.net/files/2550/550/Mantle-1.12-1.3.2.24.jar
@@ -32,5 +32,5 @@ rm -r plugins
 mkdir plugins
 cd plugins
 
-wget -O GriefPrevention.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/Nucleus-1.4.1-S7.0-MC1.12.2-plugin.jar
-wget -O Nucleus.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/griefprevention-1.12.2-4.3.0.639.jar
+#wget -O GriefPrevention.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/Nucleus-1.4.1-S7.0-MC1.12.2-plugin.jar
+#wget -O Nucleus.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/griefprevention-1.12.2-4.3.0.639.jar
