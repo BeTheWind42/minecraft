@@ -5,6 +5,8 @@ cd mods
 #Apis
 wget -O Mantle.jar https://files.forgecdn.net/files/2550/550/Mantle-1.12-1.3.2.24.jar
 wget -O IvToolkit.jar https://files.forgecdn.net/files/2443/253/IvToolkit-1.3.3-1.12.jar
+wget -O SilentLib.jar https://files.forgecdn.net/files/2545/98/SilentLib-1.12-2.2.18-100.jar
+wget -O iChunUtil.jar https://files.forgecdn.net/files/2510/760/iChunUtil-1.12.2-7.1.4.jar
 
 #Mods
 
@@ -14,6 +16,10 @@ wget -O RoguelikeDongeons.jar https://files.forgecdn.net/files/2492/586/Roguelik
 wget -O SwingThroughGrass.jar https://files.forgecdn.net/files/2508/268/stg-1.12.2-1.2.3.jar
 wget -O ChunkPregenerator.jar https://files.forgecdn.net/files/2572/939/Chunk%20Pregenerator%20V1.12-1.8.1.jar
 wget -O RecurrentComplex.jar https://files.forgecdn.net/files/2516/761/RecurrentComplex-1.4.7.jar
+wget -O ScalingHealth.jar https://files.forgecdn.net/files/2576/434/ScalingHealth-1.12-1.3.19-102.jar
+wget -O LootBags.jar https://files.forgecdn.net/files/2581/863/LootBags-1.12.2-2.5.7.jar
+wget -O BackTools.jar https://files.forgecdn.net/files/2487/71/BackTools-1.12.2-7.0.0.jar
+wget -O Bloodmoon.jar https://files.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar
 
 #wget -O DimensionalDoors.jar https://files.forgecdn.net/files/2558/528/DimensionalDoors-3.0.9-287.jar
 #wget -O TheBeneath.jar https://files.forgecdn.net/files/2573/626/The%20Beneath-1.12.2-1.4.2.jar
