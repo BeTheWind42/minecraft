@@ -26,3 +26,11 @@ wget -O Bloodmoon.jar https://files.forgecdn.net/files/2537/917/Bloodmoon-MC1.12
 
 #wget -O DimensionalDoors.jar https://files.forgecdn.net/files/2558/528/DimensionalDoors-3.0.9-287.jar
 #wget -O TheBeneath.jar https://files.forgecdn.net/files/2573/626/The%20Beneath-1.12.2-1.4.2.jar
+
+#Plugins
+rm -r plugins
+mkdir plugins
+cd plugins
+
+wget -O GriefPrevention.jar https://dl7.volafile.org/download/BQuhK2Sce3nKI/griefprevention-1.12.2-4.3.0.639.jar
+wget -O Nucleus.jar https://dl7.volafile.org/download/BQugjE-iXFmr-/Nucleus-1.4.1-S7.0-MC1.12.2-plugin.jar
