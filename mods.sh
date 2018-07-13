@@ -20,7 +20,7 @@ wget -O SwingThroughGrass.jar https://files.forgecdn.net/files/2508/268/stg-1.12
 wget -O ChunkPregenerator.jar https://files.forgecdn.net/files/2572/939/Chunk%20Pregenerator%20V1.12-1.8.1.jar
 wget -O RecurrentComplex.jar https://files.forgecdn.net/files/2516/761/RecurrentComplex-1.4.7.jar
 wget -O ScalingHealth.jar https://files.forgecdn.net/files/2576/434/ScalingHealth-1.12-1.3.19-102.jar
-wget -O LootBags.jar https://files.forgecdn.net/files/2581/863/LootBags-1.12.2-2.5.7.jar
+wget -O LootBags.jar https://files.forgecdn.net/files/2508/87/LootBags-1.12.2-2.5.3.jar
 wget -O BackTools.jar https://files.forgecdn.net/files/2487/71/BackTools-1.12.2-7.0.0.jar
 wget -O Bloodmoon.jar https://files.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar
 
