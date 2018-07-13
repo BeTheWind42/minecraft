@@ -3,7 +3,7 @@ mkdir mods
 cd mods
 
 #Sponge
-wget -O spongeforge.jar https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2705-7.1.0-BETA-3292/spongeforge-1.12.2-2705-7.1.0-BETA-3292.jar
+wget -O spongeforge.jar https://repo.spongepowered.org/maven/org/spongepowered/spongeforge/1.12.2-2705-7.1.0-BETA-3206/spongeforge-1.12.2-2705-7.1.0-BETA-3206.jar
 
 #Apis
 wget -O Mantle.jar https://files.forgecdn.net/files/2550/550/Mantle-1.12-1.3.2.24.jar
