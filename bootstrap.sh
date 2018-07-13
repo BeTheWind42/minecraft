@@ -1,6 +1,6 @@
 mkdir minecraft
 cd minecraft
-wget -O minecraftforge-installer.jar https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.1.2591/forge-1.12.2-14.23.1.2591-installer.jar
+wget -O minecraftforge-installer.jar https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.2.2611/forge-1.12.2-14.23.2.2611-installer.jar
 wget -O start.sh https://raw.githubusercontent.com/BeTheWind42/minecraft/master/start.sh
 wget -O server.properties https://raw.githubusercontent.com/BeTheWind42/minecraft/master/server.properties
 wget -O eula.txt https://raw.githubusercontent.com/BeTheWind42/minecraft/master/eula.txt
