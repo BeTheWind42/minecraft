@@ -28,9 +28,15 @@ wget -O baubley-heart-canisters.jar https://files.forgecdn.net/files/2563/927/ba
 #wget -O TheBeneath.jar https://files.forgecdn.net/files/2573/626/The%20Beneath-1.12.2-1.4.2.jar
 
 #Plugins
-rm -r plugins
-mkdir plugins
-cd plugins
+#rm -r plugins
+#mkdir plugins
+#cd plugins
 
 #wget -O GriefPrevention.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/Nucleus-1.4.1-S7.0-MC1.12.2-plugin.jar
 #wget -O Nucleus.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/griefprevention-1.12.2-4.3.0.639.jar
+
+#cd ..
+
+cd ..
+cd config
+wget -O reccomplex.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/reccomplex.cfg
