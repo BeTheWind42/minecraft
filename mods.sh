@@ -46,3 +46,4 @@ cd ..
 cd config
 wget -O reccomplex.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/reccomplex.cfg
 wget -O roughmobs.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/roughmobs.cfg
+wget -O landdefender.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/landdefender.cfg
