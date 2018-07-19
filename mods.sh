@@ -41,3 +41,4 @@ wget -O RoughMobs.jar https://files.forgecdn.net/files/2503/394/roughMobs1.0.14-
 cd ..
 cd config
 wget -O reccomplex.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/reccomplex.cfg
+wget -O roughmobs.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/roughmobs.cfg
