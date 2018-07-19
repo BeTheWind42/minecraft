@@ -23,6 +23,7 @@ wget -O BackTools.jar https://files.forgecdn.net/files/2487/71/BackTools-1.12.2-
 wget -O Bloodmoon.jar https://files.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar
 wget -O Baubles.jar https://files.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar
 wget -O baubley-heart-canisters.jar https://files.forgecdn.net/files/2563/927/baubley-heart-canisters-1.12.2-1.1.1.jar
+wget -O RoughMobs.jar https://files.forgecdn.net/files/2503/394/roughMobs1.0.14-1.12.2.jar
 
 #wget -O DimensionalDoors.jar https://files.forgecdn.net/files/2558/528/DimensionalDoors-3.0.9-287.jar
 #wget -O TheBeneath.jar https://files.forgecdn.net/files/2573/626/The%20Beneath-1.12.2-1.4.2.jar
