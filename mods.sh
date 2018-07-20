@@ -26,8 +26,9 @@ wget -O RoughMobs.jar https://files.forgecdn.net/files/2503/394/roughMobs1.0.14-
 
 #ServerMods
 
-wget -O LandDefender.jar https://github.com/BeTheWind42/minecraft/raw/master/mods/LandDefender-1.12.2.jar
 wget -O ChunkPregenerator.jar https://files.forgecdn.net/files/2572/939/Chunk%20Pregenerator%20V1.12-1.8.1.jar
+wget -O thutpermissions.jar https://files.forgecdn.net/files/2572/496/thutpermissions-1.12.2-2.1.2.jar
+wget -O thutessentials.jar https://files.forgecdn.net/files/2571/16/thutessentials-1.12.2-2.2.2.jar
 
 #wget -O DimensionalDoors.jar https://files.forgecdn.net/files/2558/528/DimensionalDoors-3.0.9-287.jar
 #wget -O TheBeneath.jar https://files.forgecdn.net/files/2573/626/The%20Beneath-1.12.2-1.4.2.jar
