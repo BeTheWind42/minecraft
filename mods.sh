@@ -22,10 +22,9 @@ wget -O BackTools.jar https://files.forgecdn.net/files/2487/71/BackTools-1.12.2-
 wget -O Bloodmoon.jar https://files.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar
 wget -O Baubles.jar https://files.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar
 wget -O baubley-heart-canisters.jar https://files.forgecdn.net/files/2563/927/baubley-heart-canisters-1.12.2-1.1.1.jar
-wget -O RoughMobs.jar https://files.forgecdn.net/files/2503/394/roughMobs1.0.14-1.12.2.jar
+wget -O RoughMobs2.jar https://files.forgecdn.net/files/2580/617/roughmobs2-1.12.2_2.0.5.jar
 
 #ServerMods
-
 wget -O ChunkPregenerator.jar https://files.forgecdn.net/files/2572/939/Chunk%20Pregenerator%20V1.12-1.8.1.jar
 wget -O thutpermissions.jar https://files.forgecdn.net/files/2572/496/thutpermissions-1.12.2-2.1.2.jar
 wget -O thutessentials.jar https://files.forgecdn.net/files/2571/16/thutessentials-1.12.2-2.2.2.jar
