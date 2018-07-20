@@ -1,0 +1,12 @@
+{
+  "minimumVersion": 1,
+  "packages": [
+    {
+      "name": "ModPack 1.12.2",
+      "title": "ModPack 1.12.2",
+      "version": "1.12.2",
+      "location": "ModPack-1.12.2.json",
+      "priority": 1
+    }
+  ]
+}
