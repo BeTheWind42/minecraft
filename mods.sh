@@ -10,6 +10,7 @@ wget -O Mantle.jar https://files.forgecdn.net/files/2550/550/Mantle-1.12-1.3.2.2
 wget -O IvToolkit.jar https://files.forgecdn.net/files/2443/253/IvToolkit-1.3.3-1.12.jar
 wget -O SilentLib.jar https://files.forgecdn.net/files/2545/98/SilentLib-1.12-2.2.18-100.jar
 wget -O iChunUtil.jar https://files.forgecdn.net/files/2510/760/iChunUtil-1.12.2-7.1.4.jar
+wget -O Baubles.jar https://files.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar
 
 #Mods
 wget -O Gravestone.jar https://files.forgecdn.net/files/2524/880/gravestone-1.10.1.jar
@@ -20,7 +21,6 @@ wget -O RecurrentComplex.jar https://files.forgecdn.net/files/2516/761/Recurrent
 wget -O LootBags.jar https://files.forgecdn.net/files/2508/87/LootBags-1.12.2-2.5.3.jar
 wget -O BackTools.jar https://files.forgecdn.net/files/2487/71/BackTools-1.12.2-7.0.0.jar
 wget -O Bloodmoon.jar https://files.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar
-wget -O Baubles.jar https://files.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar
 wget -O baubley-heart-canisters.jar https://files.forgecdn.net/files/2563/927/baubley-heart-canisters-1.12.2-1.1.1.jar
 wget -O RoughMobs2.jar https://files.forgecdn.net/files/2580/617/roughmobs2-1.12.2_2.0.5.jar
 
@@ -46,4 +46,5 @@ cd ..
 cd config
 wget -O reccomplex.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/reccomplex.cfg
 wget -O roughmobs.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/roughmobs.cfg
-wget -O landdefender.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/landdefender.cfg
+wget -O thutessentials.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/thutessentials.cfg
+wget -O thutperms.cfg https://raw.githubusercontent.com/BeTheWind42/minecraft/master/config/thutperms.cfg
